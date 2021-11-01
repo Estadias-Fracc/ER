@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T20:57:18.398Z" agent="5.0 (Windows)" etag="bGpE_adk444RXDtPA75r" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T22:19:26.773Z" agent="5.0 (Windows)" etag="m_fJzJRMoXw6APd4JVc_" version="15.4.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1554" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -235,7 +235,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dke8ROIrXFINgxGI84m_-45" value="picture_url char(250) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="dke8ROIrXFINgxGI84m_-43">
+        <mxCell id="dke8ROIrXFINgxGI84m_-45" value="profile_picture ImageField" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="dke8ROIrXFINgxGI84m_-43">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
